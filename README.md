@@ -1,2 +1,2 @@
 # RESTAURANT RECOMMENDATION APPLICATION
-## 나만을 위한 식당 추천 어플
+* 나만을 위한 식당 추천 어플
