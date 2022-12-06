@@ -5,12 +5,15 @@
              BackgroundColor="SkyBlue"
              Padding="20">
 
-    <StackLayout BackgroundColor="Black">
+    <Frame BackgroundColor="AntiqueWhite"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           OutlineColor="DodgerBlue"
+           CornerRadius="15">
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="레스토랑 예약 서비스" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-
-        <Button Text="Click Me" Clicked="Handle_Clicked" />
-    </StackLayout>
+    </Frame>
+    
 
 </ContentPage>
