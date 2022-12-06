@@ -5,9 +5,9 @@
              BackgroundColor="SkyBlue"
              Padding="20">
 
-    <StackLayout BackgroundColor="Snow">
+    <StackLayout BackgroundColor="Black">
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Label Text="레스토랑 예약 서비스" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
 
         <Button Text="Click Me" Clicked="Handle_Clicked" />
